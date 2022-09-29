@@ -2,6 +2,10 @@
 
 ![Decorative image.](Images/unit-11-readme-photo.png)
 
+## Colab pdf file
+
+Refer to the Colab pdf file for an overview of the code and resulting outputs from Google Colaboratory.
+
 ## Background
 
 In this scenario, you’re a growth analyst at [Mercado Libre](http://investor.mercadolibre.com/investor-relations). With over 200 million users, Mercado Libre is the most popular e-commerce site in Latin America. You've been tasked with analyzing the company's financial and user data in clever ways to help the company grow. 
